@@ -4,7 +4,6 @@
 
 #include <stdlib.h> /* abort */
 
-#include "openzl/codecs/zl_concat.h"     /* ZL_NODE_CONCAT_NUMERIC */
 #include "openzl/codecs/zl_conversion.h" /* ZL_NODE_INTERPRET_AS_LE8/16 */
 #include "openzl/codecs/zl_delta.h"      /* ZL_NODE_DELTA_INT */
 #include "openzl/codecs/zl_generic.h"    /* ZL_GRAPH_NUMERIC */
